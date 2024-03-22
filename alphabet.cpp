@@ -10,7 +10,7 @@ int main(){
         while (j<=n)
         {
             char ch = 'A'+i-1;
-            cout << ch<<" ";
+            cout << ch<<"hello ";
             j++;
 
         }
